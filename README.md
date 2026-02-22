@@ -1,23 +1,30 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "ffecdf2b-a699-4c98-a537-607546f96a4f",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "",
-   "name": ""
-  },
-  "language_info": {
-   "name": ""
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+# Student Placement Predictor
+
+A Machine Learning web application built using Logistic Regression and Streamlit.
+
+##  Features
+- Predicts student placement based on IQ and CGPA
+- Professional UI
+- Real-time predictions
+- Deployed online
+
+##  Tech Stack
+- Python
+- Streamlit
+- Scikit-learn
+- NumPy
+
+##  Project Structure
+
+placement_app/
+│
+├── app.py
+├── model.pkl
+├── scaler.pkl
+├── requirements.txt
+├── README.md
+└── .gitignore
+
+
+## Live Demo
+(Deployment link will be added here)

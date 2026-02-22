@@ -16,14 +16,8 @@ A Machine Learning web application built using Logistic Regression and Streamlit
 
 ##  Project Structure
 
-placement_app/
-│
-├── app.py
-├── model.pkl
-├── scaler.pkl
-├── requirements.txt
-├── README.md
-└── .gitignore
+<img width="183" height="240" alt="image" src="https://github.com/user-attachments/assets/5c84ffec-7303-4a45-a184-dba2096308a8" />
+
 
 
 ## Live Demo

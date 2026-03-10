@@ -20,5 +20,5 @@ A Machine Learning web application built using Logistic Regression and Streamlit
 
 
 
-## Live Demo
-(https://placement-predictor-btech.streamlit.app)
+
+
